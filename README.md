@@ -2,7 +2,7 @@
 
 <br>
 
-Une collection de jeux de plateau classiques jouables directement dans l'invite de commande, développés en Python.
+A collection of classic board games that can be played directly in the command prompt, developed in Python.
 
 <br>
 
@@ -10,40 +10,40 @@ Une collection de jeux de plateau classiques jouables directement dans l'invite 
 
 <br>
 
-* **Tic-Tac-Toe (Morpion) :** Jeu à deux joueurs (local) avec gestion des tours, choix du premier joueur (pseudo-aléatoire ou non) et détection automatique des conditions de victoire ou d'égalité.
+* **Tic-Tac-Toe :** A two-player game (local) with turn management, first-player selection (pseudo-random or not), and automatic detection of victory or draw conditions.
 
 <br>
 
-## Comment y jouer ?
+## How do you play?
 
 <br>
 
-**Prérequis :** Avoir Python 3 installé sur votre machine.
+**Requirement :** Make sure Python 3 is installed on your computer.
 
 <br>
 
-1. Clonez le dépôt sur votre machine :
+1. Clone the repository to your machine :
    ```bash
    git clone https://github.com/TonPseudo/python-terminal-games.git
    ```
 
-2. Accédez au répertoire :
+2. Access the directory :
    ```bash
    cd python-terminal-games
    ```
 
-3. Lancez le jeu :
+3. Start the game :
    ```bash
    python tictactoe.py
    ```
 
 <br>
 
-## Évolutions prévues
+## Planned changes
 
 <br>
 
-* Intégration d'un jeu de Puissance 4.
-* Refactorisation du code pour créer un menu principal permettant de choisir le jeu.
+* Integration of a Connect 4 game.
+* Code refactoring to create a main menu for selecting the game.
 
 <br>
